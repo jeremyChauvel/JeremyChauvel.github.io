@@ -33,7 +33,7 @@ nav ul {
 
 nav li:hover {
     display: flex;
-    color: blueviolet;
+    color: rgb(170, 18, 28);
 }
 
 #language {
